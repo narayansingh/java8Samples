@@ -9,7 +9,11 @@ public class HelloWorld {
         return "Hello World3";
     }
 
+    void test() {
+        System.out.println("test");
+    }
+
     public static void main(String... args) {
-        System.out.println("hello world2");
+        System.out.println("hello world3");
     }
 }
